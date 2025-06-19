@@ -60,3 +60,9 @@ Data were sourced from **OptionMetrics via WRDS**, focusing on US-listed options
 - Explore advanced architectures (e.g., RNNs, Transformers) to capture time dependencies.
 - Incorporate bid-ask spread modeling for deeper market insight.
 - Analyze European-style options in more detail with expanded datasets.
+
+  ---
+
+## 📄 License
+
+MIT License
