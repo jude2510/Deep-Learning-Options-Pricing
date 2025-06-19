@@ -1,6 +1,8 @@
 # Predicting Option Prices: From the Black-Scholes Model to Advanced Machine Learning Methods
 
-This project explores option pricing using both traditional financial models and modern machine learning techniques. Originally conducted as part of the STP 550 course at Arizona State University, the study evaluates and compares models such as the Black-Scholes formula, decision trees, random forests, gradient boosting, and neural networks.
+This project explores option pricing using both traditional financial models and modern machine learning techniques. The study evaluates and compares models such as the Black-Scholes formula, decision trees, random forests, gradient boosting, and neural networks.
+
+(Completed on May 8, 2025)
 
 📄 **Report**: [ProjectReport.pdf](./ProjectReport.pdf)  
 📓 **Notebook**: See the included `.ipynb` file(s) for code implementations and experiments.
